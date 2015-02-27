@@ -1,0 +1,8 @@
+Content\SpriteSheet\MinionSprite.xnb
+Content\SpriteSheet\LastBackgroundSprite1.xnb
+Content\SpriteSheet\LastBackgroundSprite2.xnb
+Content\SpriteSheet\MinionBoo.xnb
+Content\SpriteSheet\ForegroundSprite1.xnb
+Content\SpriteSheet\ForegroundSprite2.xnb
+Content\SpriteSheet\ForegroundSprite3.xnb
+Content\SpriteSheet\MiddlegroundSprite.xnb

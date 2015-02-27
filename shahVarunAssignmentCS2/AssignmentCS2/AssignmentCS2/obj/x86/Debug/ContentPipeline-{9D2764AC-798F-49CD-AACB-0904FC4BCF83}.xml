@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteSheet\MinionSprite.png</Source>
+      <Name>SpriteSheet\MinionSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\bin\x86\Debug\Content\SpriteSheet\MinionSprite.xnb</Output>
+      <Time>2015-02-11T01:18:28.3246451-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\LastBackgroundSprite1.png</Source>
+      <Name>SpriteSheet\LastBackgroundSprite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\bin\x86\Debug\Content\SpriteSheet\LastBackgroundSprite1.xnb</Output>
+      <Time>2015-02-11T03:36:54.5141773-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\LastBackgroundSprite2.png</Source>
+      <Name>SpriteSheet\LastBackgroundSprite2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\bin\x86\Debug\Content\SpriteSheet\LastBackgroundSprite2.xnb</Output>
+      <Time>2015-02-11T03:36:53.7542218-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\MinionBoo.png</Source>
+      <Name>SpriteSheet\MinionBoo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\bin\x86\Debug\Content\SpriteSheet\MinionBoo.xnb</Output>
+      <Time>2015-02-11T03:59:47.3058644-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\ForegroundSprite1.png</Source>
+      <Name>SpriteSheet\ForegroundSprite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\bin\x86\Debug\Content\SpriteSheet\ForegroundSprite1.xnb</Output>
+      <Time>2015-02-26T21:19:59.1970766-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\ForegroundSprite2.png</Source>
+      <Name>SpriteSheet\ForegroundSprite2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\bin\x86\Debug\Content\SpriteSheet\ForegroundSprite2.xnb</Output>
+      <Time>2015-02-26T21:19:59.1840647-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\ForegroundSprite3.png</Source>
+      <Name>SpriteSheet\ForegroundSprite3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\bin\x86\Debug\Content\SpriteSheet\ForegroundSprite3.xnb</Output>
+      <Time>2015-02-26T21:49:59.4650222-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\MiddlegroundSprite.png</Source>
+      <Name>SpriteSheet\MiddlegroundSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\bin\x86\Debug\Content\SpriteSheet\MiddlegroundSprite.xnb</Output>
+      <Time>2015-02-27T12:39:58.3973612-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9D2764AC-798F-49CD-AACB-0904FC4BCF83}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2Content\</RootDirectory>
+      <LoggerRootDirectory>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\varun\documents\visual studio 2013\Projects\shahVarunAssignmentCS\shahVarunAssignmentCS2\AssignmentCS2\AssignmentCS2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-10T22:46:30.6632612-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

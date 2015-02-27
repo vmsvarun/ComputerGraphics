@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentCS2", "AssignmentCS2\AssignmentCS2\AssignmentCS2.csproj", "{555CE168-014B-45E5-AE58-047E22444F64}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AssignmentCS2Content", "AssignmentCS2\AssignmentCS2Content\AssignmentCS2Content.contentproj", "{9D2764AC-798F-49CD-AACB-0904FC4BCF83}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vmsvarun.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AssignmentCS2\\AssignmentCS2\\AssignmentCS2.csproj
+		SccProjectName1 = AssignmentCS2/AssignmentCS2
+		SccLocalPath1 = AssignmentCS2\\AssignmentCS2
+		SccProjectUniqueName2 = AssignmentCS2\\AssignmentCS2Content\\AssignmentCS2Content.contentproj
+		SccProjectName2 = AssignmentCS2/AssignmentCS2Content
+		SccLocalPath2 = AssignmentCS2\\AssignmentCS2Content
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555CE168-014B-45E5-AE58-047E22444F64}.Debug|x86.ActiveCfg = Debug|x86
+		{555CE168-014B-45E5-AE58-047E22444F64}.Debug|x86.Build.0 = Debug|x86
+		{555CE168-014B-45E5-AE58-047E22444F64}.Release|x86.ActiveCfg = Release|x86
+		{555CE168-014B-45E5-AE58-047E22444F64}.Release|x86.Build.0 = Release|x86
+		{9D2764AC-798F-49CD-AACB-0904FC4BCF83}.Debug|x86.ActiveCfg = Debug|x86
+		{9D2764AC-798F-49CD-AACB-0904FC4BCF83}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
